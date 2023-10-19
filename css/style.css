@@ -31,7 +31,7 @@ justify-content: center;}
 section{
 
 
-/*     grid-gap: 5vh; */
+    grid-gap: 5vh;
     margin: auto;
     
 }
@@ -293,7 +293,7 @@ transition: 0.5s;
 z-index: -1;
 background-color:rgb(109, 152, 134);
 }
-.div9, .div16{
+.fixed-background-section{
     width: 100%;
     height: 50vh;
     background-image: url(../images/laptop-3214756_1280.png);
@@ -532,7 +532,7 @@ margin-top: 20px;
 .recent-section{
 height: fit-content;
 }
-.div9, .div16{
+.fixed-background-section{
     height: 15vh;
    
     background-position: center;
