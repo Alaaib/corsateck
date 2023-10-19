@@ -532,12 +532,12 @@ margin-top: 20px;
 .recent-section{
 height: fit-content;
 }
-.fixed-background-section{
+/* .fixed-background-section{
     height: 15vh;
    
     background-position: center;
     background-size: contain;
-}
+} */
 #recent-overlay-card-body{
     width: fit-content;
     margin-top: -13px;
