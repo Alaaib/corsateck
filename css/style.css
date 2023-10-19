@@ -559,13 +559,14 @@ height: fit-content;
     box-shadow: 0px 3px 3px 3px rgb(219, 216, 216);
 }
 .translation-title, .cards-title, .recent-title, #about-header, .PODCAST-title,
- .join-us-title, .parteners-title{
-    font-size: small;
+ .join-us-title{
+    font-size: 14px;
     
 
     
 }
-
+.parteners-title{
+    font-size:small;
 
   
 
