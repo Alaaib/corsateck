@@ -257,6 +257,7 @@ bottom: 0;
     opacity: 0;
     margin-bottom: -30px;
     border-radius: 0;
+     transition: 0.5s;
 }
 .courses-cards:hover:before{
     width:70%;
@@ -267,7 +268,6 @@ opacity: 0.5;
 transition: 0.5s;
 z-index: -1;
 background-color:rgb(109, 152, 134);
-transition: 0.5;
 }
 .courses-cards:after{
     position: absolute;
@@ -279,6 +279,7 @@ top: 0;
     opacity: 0;
     margin-top: -30px;
     border-radius: 0;
+    transition: 0.5s;
 }
 .courses-cards:hover:after{
     width:70%;
@@ -289,7 +290,7 @@ opacity: 0.5;
 transition: 0.5s;
 z-index: -1;
 background-color:rgb(109, 152, 134);
-transition: 0.5;
+transition: 0.5s;
 }
 .div9, .div16{
     width: 100%;
