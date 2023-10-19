@@ -31,7 +31,7 @@ justify-content: center;}
 section{
 
 
-    grid-gap: 5vh;
+/*     grid-gap: 5vh; */
     margin: auto;
     
 }
@@ -560,7 +560,7 @@ height: fit-content;
 }
 .translation-title, .cards-title, .recent-title, #about-header, .PODCAST-title,
  .join-us-title{
-    font-size: 14px;
+    font-size: 16px;
     
 
     
