@@ -497,7 +497,7 @@ margin-top: 20px;
 /* //////////////////////////////////////////////////////////////////////////////////////////
  */
 
- @media (max-width: 991px) {
+ @media (max-width: 667px) {
     .translation-INPUT{
         width: 100%;
     }
@@ -564,8 +564,5 @@ height: fit-content;
 
 }
 
-@media only screen and (max-width: 667px) {
-  .fusion-layout-column .title-heading-center.fusion-responsive-typography-calculated {
-    display: block;
-  }
-}
+
+
